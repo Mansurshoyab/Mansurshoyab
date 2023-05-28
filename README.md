@@ -1,4 +1,4 @@
-![Web developer](https://media.licdn.com/dms/image/D5616AQHJ_TuI2mE9Ww/profile-displaybackgroundimage-shrink_350_1400/0/1685305540534?e=1691020800&v=beta&t=Z7UFToMuY9Y0XMone-d2QGDdFt0PdusdZEpkfhSxcHI)
+![Web developer](https://media.licdn.com/dms/image/D5616AQHceh1Y1xL7iw/profile-displaybackgroundimage-shrink_350_1400/0/1685307796161?e=1691020800&v=beta&t=SW-6MeBjgl4plqOvD_MWiCgPIqNRHLjCGS8zscFeeT0)
 
 ### Hi there 👋, My name is Shoyab
 #### Web developer
@@ -18,9 +18,5 @@ Skills: HTML/ CSS/ Bootstrap/ JavaScript/ Jquery/PHP/ Mysql/ Laravel/ and WordPr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mansurshoyab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shoyab-mahmud-seo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100013400328142)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fsh00yab%3Figshid%3DMzNlNGNkZWQ4Mg%253D%253D%26fbclid%3DIwAR3HixaB0sSt50ngbmbEcjc4M3cLpwoqRP8FEW0MIfQDt741DUa662Bb5Ig&h=AT0fBhWoEQe0NjdKE0Irzr5UkgilsspoizyEHKBKXd052Zz36OQm0W-dbLg7Wh9TgAczXEPU6JcA4JNSaB5mlQHtc20zw7fUZdsEu1h07xbaQo02bvHMbXENleSWcmUDfnLRTg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shoyabmahmud2)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mansurshoyab)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mansurshoyab&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Mansurshoyab)  
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
